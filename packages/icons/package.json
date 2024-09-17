@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "@charcoal-ui/icon-files": "^3.5.0",
-    "dompurify": "^2.3.6",
+    "dompurify": "^2.5.4",
     "warning": "^4.0.3"
   },
   "files": [
