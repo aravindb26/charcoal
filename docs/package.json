@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@charcoal-ui/foundation": "../packages/doundation",
-    "@charcoal-ui/icons": "../packages/icons",
-    "@charcoal-ui/react": "../packages/react",
+    "@charcoal-ui/icons": "3.16.0",
+    "@charcoal-ui/react": "3.16.0",
     "@charcoal-ui/styled": "../packages/styled",
     "@charcoal-ui/theme": "../packages/theme",
     "@charcoal-ui/utils": "../packages/utils",
