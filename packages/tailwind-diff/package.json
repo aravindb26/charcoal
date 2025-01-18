@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "import-from": "^4.0.0",
-    "postcss": "^8.4.5",
+    "postcss": "^8.5.0",
     "postcss-selector-parser": "^6.0.9",
     "yargs": "^17.3.1"
   },
