@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@charcoal-ui/foundation": "^3.5.0",
-    "@charcoal-ui/theme": "^3.5.0",
+    "@charcoal-ui/theme": "^1.0.0",
     "@charcoal-ui/utils": "^3.5.0",
     "warning": "^4.0.3"
   },
