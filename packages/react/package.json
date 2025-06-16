@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "@charcoal-ui/icons": "^3.5.0",
-    "@charcoal-ui/styled": "^3.5.0",
+    "@charcoal-ui/styled": "^1.0.0",
     "@charcoal-ui/theme": "^3.5.0",
     "@charcoal-ui/utils": "^3.5.0",
     "@react-aria/button": "^3.7.0",
