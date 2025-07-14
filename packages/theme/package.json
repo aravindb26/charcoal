@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@charcoal-ui/foundation": "^3.5.0",
-    "@charcoal-ui/utils": "^3.5.0",
+    "@charcoal-ui/utils": "^1.0.0",
     "polished": "^4.1.4"
   },
   "files": [
