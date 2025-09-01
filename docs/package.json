@@ -10,13 +10,13 @@
   },
   "dependencies": {
     "@charcoal-ui/foundation": "../packages/doundation",
-    "@charcoal-ui/icons": "../packages/icons",
-    "@charcoal-ui/react": "../packages/react",
+    "@charcoal-ui/icons": "4.0.0",
+    "@charcoal-ui/react": "4.0.0",
     "@charcoal-ui/styled": "../packages/styled",
     "@charcoal-ui/theme": "../packages/theme",
     "@charcoal-ui/utils": "../packages/utils",
     "highlight.js": "^11.7.0",
-    "next": "13.1.6",
+    "next": "14.2.32",
     "react": "^18.2.0",
     "react-dom": "18.2.0",
     "styled-components": "^5.3.6"
